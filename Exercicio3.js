@@ -10,5 +10,6 @@ if(numeroInteiro < 0){
 
 }else{console.log("O numero informado é positivo")}
 
-    
-    
+
+
+
